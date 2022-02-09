@@ -12,6 +12,9 @@ items:
  - jenkinsci/jenkins
  - pybuilder/pybuilder
  - klaussinani/signale
+ - gitpod-io/gitpod
+ - gnustep/apps-gorm
+ - koalaman/shellcheck
 display_name: Software development tools
 ---
 Build apps better, faster, stronger.
