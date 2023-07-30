@@ -10,12 +10,15 @@ items:
  - rtyley/bfg-repo-cleaner
  - mhagger/git-imerge
  - eddiezane/lunchy
- - awaescher/repoz
+ - awaescher/RepoZ
  - sharkdp/fd
  - BurntSushi/ripgrep
- - stedolan/jq
+ - jqlang/jq
  - alacritty/alacritty
+ - ajeetdsouza/zoxide
+ - Slackadays/Clipboard
+ - devtron-labs/devtron
 display_name: Software productivity tools
 created_by: holman
 ---
-Build software faster with fewer headaches, using these tools and tricks
+Build software faster with fewer headaches, using these tools and tricks.

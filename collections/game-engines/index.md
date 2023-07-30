@@ -7,7 +7,7 @@ items:
  - spring/spring
  - cocos2d/cocos2d-x
  - Gamua/Starling-Framework
- - gameplay3d/GamePlay
+ - gameplay3d/gameplay
  - jMonkeyEngine/jmonkeyengine
  - SFTtech/openage
  - MonoGame/MonoGame
@@ -15,16 +15,15 @@ items:
  - superpowers/superpowers-core
  - AtomicGameEngine/AtomicGameEngine
  - 4ian/GDevelop
- - CRYTEK/CRYENGINE
- - urho3d/Urho3D
- - benoit-dumas/OpenRTS
+ - urho3d/urho3d
+ - methusalah/OpenRTS
  - photonstorm/phaser
  - melonjs/melonJS
  - BabylonJS/Babylon.js
  - WhitestormJS/whs.js
  - wellcaffeinated/PhysicsJS
  - playcanvas/engine
- - cocos2d/cocos2d-html5
+ - cocos/cocos-engine
  - craftyjs/Crafty
  - pixijs/pixijs
  - renpy/renpy
@@ -39,7 +38,6 @@ items:
  - amethyst/amethyst
  - orx/orx
  - nCine/nCine
- - cocos-creator/engine
  - love2d/love
  - coronalabs/corona
  - hajimehoshi/ebiten
@@ -50,6 +48,14 @@ items:
  - FlaxEngine/FlaxEngine
  - ObEngine/ObEngine
  - KilledByAPixel/LittleJS
+ - ppy/osu-framework
+ - gosu/gosu
+ - cerberusxdev/cerberus
+ - ganelson/inform
+ - hexops/mach
+ - PurpleKingdomGames/indigo
+ - nivanov/cosplay
+ - gurkenlabs/litiengine
 display_name: Game Engines
 created_by: leereilly
 ---

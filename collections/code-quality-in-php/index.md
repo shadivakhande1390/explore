@@ -1,13 +1,14 @@
 ---
 items:
  - squizlabs/PHP_CodeSniffer
- - FriendsOfPHP/PHP-CS-Fixer
+ - PHP-CS-Fixer/PHP-CS-Fixer
  - psecio/parse
  - phan/phan
  - sebastianbergmann/phpcpd
  - sebastianbergmann/phploc
  - povils/phpmnd
  - phpmd/phpmd
+ - phpstan/phpstan
  - vimeo/psalm
  - infection/infection
 display_name: Code Quality Checker Tools For PHP Projects

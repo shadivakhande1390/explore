@@ -8,21 +8,23 @@ items:
  - hexojs/hexo
  - vercel/next.js
  - getpelican/pelican
- - facebook/Docusaurus
+ - facebook/docusaurus
  - slatedocs/slate
- - nuxt/nuxt.js
+ - nuxt/nuxt
  - gridsome/gridsome
  - middleman/middleman
  - react-static/react-static
  - docsifyjs/docsify
  - mkdocs/mkdocs
  - sintaxi/harp
- - netlify/netlify-cms
+ - decaporg/decap-cms
  - jaspervdj/hakyll
  - umijs/umi
  - abelljs/abell
- - snowpackjs/astro
+ - withastro/astro
  - tlienart/Franklin.jl
+ - getzola/zola
+ - lumeland/lume
 display_name: Static Site Generators
 created_by: jakejarvis
 ---
